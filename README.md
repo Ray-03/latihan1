@@ -1,6 +1,9 @@
 # my_quizzler
 
-A new Flutter application.
+Quiz app with true or false answer only
+
+demo:
+https://drive.google.com/file/d/10JZQVgqpLzq-FTL9222L--0WDy_VvgfD/view?usp=sharing
 
 ## Getting Started
 
